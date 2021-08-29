@@ -1,0 +1,18 @@
+{
+  "name": "rdl-mx",
+  "api_version": "1.0.0",
+  "description": "Red Dot Logics 4k Matrix 16x16 non seamless ",
+  "manufacturer": "Red Dot Logics",
+  "product": "RDL-MX4k1616NS",
+  "model": ["RDL-MXB1616NS,
+            "RDL-MC88NS"],
+  "shortname": ["MX1616","MX88"],
+  "keywords": [ "RDL" ],
+  "homepage": "https://www.reddotlogics.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritesh Patel <Ritesh@RedDotLogics.com>",
+  "license": "MIT"
+}
