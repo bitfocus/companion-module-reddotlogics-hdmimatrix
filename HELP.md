@@ -5,8 +5,6 @@ supported Models:
 * RDL-MX4k88SNS
 * RDL-MX4k1616NS
 
-
-
 ### Configuration
 * Type in the device IP address and port (default of 23).
 
