@@ -3,18 +3,22 @@
   "api_version": "1.0.0",
   "version": "1.0.1",
   "keywords": [
-		"HDMI matrix",
-		"matrix", 
-    "16x16",
-    "8x8",
-    "RDL",
-    "red dot logics"
+	"HDMI matrix",
+	"matrix", 
+	"16x16",
+   	"8x8",
+    	"RDL",
+   	"red dot logics"
 	],
   "description": "Red Dot Logics 4k HDMI 2.0Matrix 8x8 & 16x16 non seamless Version",
   "manufacturer": "Red Dot Logics",
   "product": "RDL-MX4k",
-  "model": ["RDL-MXB1616NS", "RDL-MX88NS"],
-  "shortname": ["MX1616","MX88"],
+  "model": ["RDL-MXB1616NS",
+	    "RDL-MX88NS"
+	   ],
+  "shortname": ["MX1616",
+		"MX88"
+	       ],
   "homepage": "https://www.reddotlogics.com/",
   "main": "index.js",
   "repository": {
