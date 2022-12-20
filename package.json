@@ -1,7 +1,7 @@
 {
   "name": "reddotlogics-hdmimatrix",
   "api_version": "1.0.0",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
 	"HDMI matrix",
 	"matrix", 
@@ -16,9 +16,7 @@
   "model": ["RDL-MXB1616NS",
 	    "RDL-MX88NS"
 	   ],
-  "shortname": ["MX1616",
-		"MX88"
-	       ],
+  "shortname": "MX1616/MX88",
   "homepage": "https://www.reddotlogics.com/",
   "main": "index.js",
   "repository": {
